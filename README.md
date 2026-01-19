@@ -2,7 +2,7 @@
 
 > The Smartest VoIP Billing Platform on the Planet
 
-![Slider Image](screenshots/slider.png) <!-- Replace with your actual slider image path -->
+![Slider Image]((https://next2call.com/assets/img/slider/dashboard_new.png)) <!-- Replace with your actual slider image path -->
 
 ---
 
