@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">React Admin Dashboard</h1>
 
 ![Demo App](/public/screenshot-for-readme-1.png)
@@ -24,3 +25,7 @@ npm install
 ```shell
 npm run start
 ```
+=======
+# voip-billing-crm
+Cloud VoIP Billing &amp; CRM Dashboard with Call Management and Reporting
+>>>>>>> 2b529cca54b58b889c18432fc49dbc22d3e88469
